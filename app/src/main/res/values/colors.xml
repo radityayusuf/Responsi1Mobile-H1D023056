@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+
+    <color name="player_goalkeeper">#FFFFEB3B</color> <color name="player_defender">#FF2196F3</color>   <color name="player_midfielder">#FF4CAF50</color> <color name="player_forward">#FFF44336</color>    </resources>

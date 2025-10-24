@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile (H1D023056)</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_coach">Head Coach</string>
+    <string name="title_squad">Team Squad</string>
+    <string name="founded">Founded</string>
+    <string name="venue">Venue</string>
+    <string name="club_colors">Club Colors</string>
+    <string name="nationality">Nationality</string>
+    <string name="position">Position</string>
+
+    <string name="club_history_placeholder">
+    [SEJARAH PANJANG BLACKBURN ROVERS FC]
+
+    Didirikan pada tanggal 5 November 1875 oleh John Lewis dan Arthur Constantine setelah pertemuan di Leger Hotel, Blackburn, klub ini dengan cepat menjadi kekuatan dominan di awal sejarah sepak bola Inggris. Rovers adalah salah satu anggota pendiri Lancashire Football Association pada tahun 1878 dan The Football League pada tahun 1888.
+
+    Klub ini pertama kali mencapai Final FA Cup pada tahun 1882, menjadi tim provinsi pertama yang melakukannya, meskipun kalah dari Old Etonians. Namun, ini hanyalah awal dari dominasi mereka. Rovers memenangkan FA Cup tiga kali berturut-turut dari tahun 1884 hingga 1886, sebuah prestasi yang membuat mereka dianugerahi perisai perak khusus. Mereka menambah koleksi trofi FA Cup mereka dengan kemenangan lebih lanjut pada tahun 1890 dan 1891. Pada tahun 1890, klub pindah ke Ewood Park, yang tetap menjadi kandang mereka hingga hari ini.
+
+    Blackburn Rovers juga meraih kesuksesan liga, memenangkan gelar Juara First Division (kasta tertinggi saat itu) pada musim 1911–12 dan 1913–14. Trofi besar terakhir mereka untuk waktu yang lama datang pada tahun 1928 dengan kemenangan FA Cup keenam.
+
+    Setelah itu, klub mengalami masa-masa sulit, termasuk degradasi pertama mereka pada tahun 1936. Selama 26 musim berturut-turut setelah tahun 1966, Rovers bermain di luar kasta tertinggi.
+
+    Kebangkitan klub dimulai pada awal 1990-an setelah diambil alih oleh pengusaha baja lokal, Jack Walker. Dengan dukungan finansialnya dan manajer Kenny Dalglish, Rovers dipromosikan ke Premier League yang baru dibentuk pada tahun 1992. Hanya tiga musim kemudian, didorong oleh duet penyerang maut Alan Shearer dan Chris Sutton, Blackburn Rovers mengejutkan dunia dengan memenangkan gelar Premier League musim 1994–95.
+
+    Klub menambah lemari trofi mereka sekali lagi dengan memenangkan League Cup pada tahun 2002. Namun, mereka terdegradasi dari Premier League pada tahun 2012 dan bahkan jatuh ke kasta ketiga (League One) pada tahun 2017, sebelum langsung mendapatkan promosi kembali.
+</string>
+</resources>
